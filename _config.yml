@@ -31,3 +31,5 @@ sass:
 timezone: Asia/Tokyo
 title: Example title
 url: http://example.com
+
+theme: jekyll-theme-slate
